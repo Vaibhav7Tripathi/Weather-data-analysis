@@ -1,0 +1,6 @@
+Download the following python packages beforehand
+pandas
+matplotlib
+seaborn
+scikit-learn
+meteostat
