@@ -28,10 +28,10 @@ This project analyzes 5 years of historical weather data for New York City and b
 
 ## 📊 Evaluation Metrics
 
-| Metric       | Description                        |
-|--------------|------------------------------------|
-| R² Score     | Measures how well model fits data  |
-| MSE          | Measures average prediction error  |
+| Metric    | Value    | Description                         |
+|-----------|----------|-------------------------------------|
+| R² Score  | **0.89** | Measures how well the model fits    |
+| MSE       | **1.52** | Average squared prediction error    |
 
 ---
 
