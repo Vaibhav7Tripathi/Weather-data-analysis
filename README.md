@@ -1,6 +1,6 @@
 # 🌦️ Weather Data Analysis & Temperature Prediction
 
-This project analyzes 5 years of historical weather data for New York City and builds a machine learning model to predict average daily temperature using features like minimum temperature, maximum temperature, precipitation, and wind speed.
+This project analyzes 6 years of historical weather data for New York City and builds a machine learning model to predict average daily temperature using features like minimum temperature, maximum temperature, precipitation, and wind speed.
 
 ---
 
